@@ -1,10 +1,9 @@
-![Header](./your-header-image-name.png)
+![Header](https://github.com/Rita-Mondal/Rita-Mondal/blob/main/github-header-image.png?raw=true)
 <h1 align="center">Hi 👋, I'm Rita Mondal</h1>
 <h3 align="center">A passionate software developer</h3>
 
 - 📫 How to reach me **mondalrita@155gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
