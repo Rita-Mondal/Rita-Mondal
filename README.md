@@ -1,7 +1,7 @@
 ![Header](https://github.com/Rita-Mondal/Rita-Mondal/blob/main/github-header-image.png?raw=true)
 <h2 align="center">A passionate software developer</h2>
 
-- 📫 How to reach me **mondalrita@155gmail.com**
+- 📫 Reach me through **mondalrita@155gmail.com**
 
 <p align="left">
 </p>
